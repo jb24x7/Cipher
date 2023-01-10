@@ -27,8 +27,11 @@ return newSent;
     return joinArray; // "olleh"
 }
 
+function adding()
+
 testString = firstandlastletter(userInput);
 alert(reverseString(testString));
+
 
 
 
